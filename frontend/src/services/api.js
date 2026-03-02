@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://lms-mern-b20i.onrender.com';
+const API_BASE_URL = 'https://lms-mern-b20i.onrender.com/api';
 
 // Create axios instance
 const api = axios.create({
