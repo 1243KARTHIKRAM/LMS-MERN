@@ -20,7 +20,7 @@ const corsOptions = {
     const allowedOrigins = [
       'http://localhost:5173',
       'http://localhost:3000',
-      'https://lms-mern-two.vercel.app'
+      'https://lms-mern-green.vercel.app'
     ];
     
     if (!origin || allowedOrigins.includes(origin)) {
