@@ -89,11 +89,11 @@ const AppRoutes = () => {
 // Main App
 function App() {
   return (
-    <HashRouter>
+    <Router>
       <AuthProvider>
         <AppRoutes />
       </AuthProvider>
-    </HashRouter>
+    </Router>
   );
 }
 
