@@ -5,8 +5,7 @@ This platform allows users to register, login, access courses, and watch YouTube
 
 ## 🚀 Live Demo
 
-Frontend: https://your-frontend-link.vercel.app  
-Backend: https://your-backend-link.onrender.com  
+ (https://lms-mern-green.vercel.app/#/login)
 
 ---
 
